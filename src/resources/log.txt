@@ -1,0 +1,13 @@
+log.txt(21-01-2021 14:36:58) you wished to see a list of all the files: [Dracula.txt, log.txt, Meme_1.jpeg, Meme_10.jfif, Meme_11.jfif, Meme_2.png, Meme_3.jpg, Meme_4.jpg, Meme_5.jpg, Meme_6.jpg, Meme_7.jpg, Meme_8.jfif, Meme_9.jfif]. It took 21ms
+log.txt(21-01-2021 14:37:08) you wished to search for a list of files with (3) extension, []. It took 0ms
+log.txt(21-01-2021 14:37:18) you wished to search for a list of files with (jpg) extension, [Meme_3.jpg, Meme_4.jpg, Meme_5.jpg, Meme_6.jpg, Meme_7.jpg]. It took 0ms
+log.txt(21-01-2021 14:37:36) you wished to see the name of the file, which is: (Meme_1.jpeg). It took 0ms
+log.txt(21-01-2021 14:37:43) you wished to see the size of the file which is 64055 bytes, or 62.5537109375 kilobytes (63KB on disk). It took 75ms
+log.txt(21-01-2021 14:38:03) you wished to see a list of all the files: [Dracula.txt, log.txt, Meme_1.jpeg, Meme_10.jfif, Meme_11.jfif, Meme_2.png, Meme_3.jpg, Meme_4.jpg, Meme_5.jpg, Meme_6.jpg, Meme_7.jpg, Meme_8.jfif, Meme_9.jfif]. It took 9ms
+log.txt(21-01-2021 14:38:07) you wished to search for a list of files with (jpg) extension, [Meme_3.jpg, Meme_4.jpg, Meme_5.jpg, Meme_6.jpg, Meme_7.jpg]. It took 0ms
+log.txt(21-01-2021 14:38:18) you wished to see the number of lines and they are (7) line. It took 1ms
+log.txt(21-01-2021 14:38:28) you wished to see the size of the file which is 1287 bytes, or 1.2568359375 kilobytes (2KB on disk). It took 2ms
+log.txt(21-01-2021 14:38:31) you wished to see the name of the file, which is: (log.txt). It took 0ms
+log.txt(23-01-2021 12:05:53) you wished to search for a list of files with (png) extension, [Meme_2.png]. It took 0ms
+log.txt(24-01-2021 12:09:25) List of all files with (png) extension, [Meme_2.png]. It took 0ms
+log.txt(24-01-2021 12:09:39) List of all files: [Dracula.txt, log.txt, Meme_1.jpeg, Meme_10.jfif, Meme_11.jfif, Meme_2.png, Meme_3.jpg, Meme_4.jpg, Meme_5.jpg, Meme_6.jpg, Meme_7.jpg, Meme_8.jfif, Meme_9.jfif]. It took 11ms
